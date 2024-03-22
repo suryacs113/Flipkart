@@ -5,7 +5,7 @@ public class Test {
 		System.out.println("Demo");
 	}
 	private void name() {
-		System.out.println("This is Surya");
+		System.out.println("This is Surya 2.0");
 
 	}
 
