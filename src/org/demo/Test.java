@@ -8,5 +8,9 @@ public class Test {
 		System.out.println("This is Surya 2.0");
 
 	}
+	private void Demo() {
+		System.out.println("This is Karthick");
+		
+	}
 
 }
